@@ -6,4 +6,4 @@ ROMEO: Oh, I die!
 
 Romeo dies.
 
-END
+ENDS
